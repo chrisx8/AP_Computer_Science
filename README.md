@@ -15,7 +15,9 @@ NOT guaranteed to be correct.
 - Do not try to use my codes to cheat!
 
 ## List of Chapters
-- Chapter 1&2: Objects & Primitive Data  
+- [x] Chapter 1&2: Objects & Primitive Data  
   Basic Java concepts: data types, variable assignment, class/method, Scanner (user input), math  
-- Chapter 3: Program Statements  
+- [x] Chapter 3: Program Statements  
   while/for loops, if/else statements
+- [] Chapter 4: Inheritance & Classes
+  TODO
