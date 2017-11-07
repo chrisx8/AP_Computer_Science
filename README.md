@@ -19,5 +19,5 @@ NOT guaranteed to be correct.
   Basic Java concepts: data types, variable assignment, class/method, Scanner (user input), math  
 - [x] Chapter 3: Program Statements  
   while/for loops, if/else statements
-- [ ] Chapter 4: Classes & Inheritance
+- [ ] Chapter 4: Classes & Inheritance  
   ONGOING
