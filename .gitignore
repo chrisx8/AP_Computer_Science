@@ -1,5 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
-### Java template
 # Compiled class file
 *.class
 
@@ -10,9 +9,6 @@
 .idea/
 *.iml
 out/
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
 
 # Package Files #
 *.jar
