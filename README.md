@@ -9,8 +9,7 @@ A brief description of each program is included in the program itself as
 comments.
 
 ## Warning
-- This repository is for reference ONLY! You can use these programs as 
-examples. However, they are only tested on my computer. It's ABSOLUTELY 
+- This repository is for reference ONLY! You can use my programs for practice, review, reference, etc. However, they are not strictly tested. It's ABSOLUTELY 
 NOT guaranteed to be correct.  
 - Do not try to use my codes to cheat!
 
