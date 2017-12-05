@@ -21,7 +21,7 @@ A brief description of each program is included in the program itself as comment
 - [x] Chapter 4: Classes & Objects  
   - Defining classes & methods
   - Creating instances
-  - Variable types (`public`, `private`)
+  - Access modifiers (`public`, `private`)
 - [ ] Chapter 5: Enhancing Classes
   - Objects references & aliases
   - Objects references as parameters
