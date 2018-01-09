@@ -1,6 +1,8 @@
 /*
-Implement the interface.
-*/
+The 'Question' class provides an implementation of Complexity_Interface, and defines a 'Question' class for running
+the MiniQuiz.
+This is a demonstration on how to implement an interface when creating a class
+ */
 
 package MiniQuiz;
 
@@ -20,11 +22,12 @@ public class Question implements Complexity_Interface {
     {
         complexityLevel = level;
     }
-
-    public int getComplexity() {
+    
+    public int getComplexity()
+    {
         return complexityLevel;
     }
-
+    
     public String getQuestion()
     {
         return question;

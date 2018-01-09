@@ -2,3 +2,4 @@
   - Objects references & aliases
   - Objects references as parameters
   - The `static` modifier
+  - Defining and implementing `interfaces`

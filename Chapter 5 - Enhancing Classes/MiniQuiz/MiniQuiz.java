@@ -1,6 +1,8 @@
 /*
-Example of defining and implementing interfaces.
-*/
+Utilizes the 'Question' class, which implements the interface 'Complexity_Interface'.
+This is a demonstration on how to use classes (implementation of an interface) in an
+executable program.
+ */
 
 package MiniQuiz;
 
