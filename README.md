@@ -22,7 +22,9 @@ A brief description of each program is included in the program itself as comment
   - Defining classes & methods
   - Creating instances
   - Access modifiers (`public`, `private`)
-- [ ] Chapter 5: Enhancing Classes
+- [x] Chapter 5: Enhancing Classes
   - Objects references & aliases
   - Objects references as parameters
   - The `static` modifier
+  - Defining and implementing `interfaces
+`
