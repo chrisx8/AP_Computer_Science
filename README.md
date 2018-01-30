@@ -26,5 +26,8 @@ A brief description of each program is included in the program itself as comment
   - Objects references & aliases
   - Objects references as parameters
   - The `static` modifier
-  - Defining and implementing `interfaces
-`
+  - Defining and implementing `interfaces`
+- [ ] Chapter 6: Arrays
+  - Array declaration and use
+  - Passing arrays and array elements as parameters
+  - Arrays of objects
