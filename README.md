@@ -27,7 +27,11 @@ A brief description of each program is included in the program itself as comment
   - Objects references as parameters
   - The `static` modifier
   - Defining and implementing `interfaces`
-- [ ] Chapter 6: Arrays
+- [x] Chapter 6: Arrays
   - Array declaration and use
+  - Encanced `for` loop
+  - Two-dimentional arrays
   - Passing arrays and array elements as parameters
   - Arrays of objects
+- [ ] Chapter 7: ArrayList
+  - The `ArrayList` class
