@@ -33,5 +33,8 @@ A brief description of each program is included in the program itself as comment
   - Two-dimentional arrays
   - Passing arrays and array elements as parameters
   - Arrays of objects
-- [ ] Chapter 7: ArrayList
   - The `ArrayList` class
+  - Searching and sorting
+- [ ] Chapter 7: Inheritance
+  - Creating subclasses
+  - Overriding methods
