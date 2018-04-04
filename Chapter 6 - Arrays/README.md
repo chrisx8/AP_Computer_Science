@@ -4,3 +4,5 @@
   - Two-dimentional arrays
   - Passing arrays and array elements as parameters
   - Arrays of objects
+  - The `ArrayList` class
+  - Searching and sorting
