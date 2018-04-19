@@ -1,9 +1,9 @@
 # Chapter 3: Program Statements
 
 - Loops
-    - `while`
-    - `for`
+  - `while`
+  - `for`
 - Decision structures
-    - `if`
-    - `else if`
-    - `else`
+  - `if`
+  - `else if`
+  - `else`

@@ -1,3 +1,7 @@
 # Chapter 7: Inheritance
-  - Creating subclasses
-  - Overriding methods
+
+- Creating subclasses
+- The `super` reference
+- Overriding methods
+- Abstract classes
+- Polymorphism
