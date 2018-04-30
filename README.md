@@ -37,9 +37,10 @@ A brief description of each program is included in the program itself as comment
   - Arrays of objects
   - The `ArrayList` class
   - Searching and sorting
-- [ ] Chapter 7: Inheritance
+- [x] Chapter 7: Inheritance
   - Creating subclasses
   - The `super` reference
   - Overriding methods
   - Abstract classes
   - Polymorphism
+  - Recursion
